@@ -1,0 +1,70 @@
+.mask{
+    box-sizing: border-box;
+    height: 206px;
+    width: 270px;
+    border: 1px solid #E7E7E7;
+    border-radius: 3px;
+    background-color: #FFFFFF;
+    box-shadow: 1px 1px 6px 1px rgba(0,0,0,0.08);
+  }
+  .job-distribution {
+    width: 268px;
+    height: 40px;
+    line-height: 38px;
+    border-bottom: 1px solid #e8c5c5;
+    text-align: center;
+
+  }
+  .service_wash_repail{
+    display: flex;
+    justify-content: space-around;
+    margin: 129px 0px;
+  }
+  .service_color1 {
+    height: 10px;
+    width: 9.96px;
+    border-radius: 100px;
+    background-color: #00d9b7;
+  }
+  .service1 {
+    height: 17px;
+    width: 49px;
+    color: #334048;
+    font-family: "Century Gothic";
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-top: -4px;
+  }
+  .wash_color1 {
+    height: 10px;
+    width: 9.96px;
+    border-radius: 100px;
+    background-color: #195e8d;
+  }
+  .wash1 {
+    height: 17px;
+    width: 49px;
+    color: #334048;
+    font-family: "Century Gothic";
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-top: -4px;
+  }
+  .repair_color1 {
+    height: 10px;
+    width: 9.96px;
+    border-radius: 100px;
+    background-color: #fab15d;
+  }
+  .repai1 {
+    height: 17px;
+    width: 43.82px;
+    color: #334048;
+    font-family: "Century Gothic";
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-top: -4px;
+  }

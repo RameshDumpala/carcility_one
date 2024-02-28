@@ -1,0 +1,135 @@
+ .header_div{
+  border-radius: 0px solid #FFFF;
+  box-shadow: 0px 0px 0px 1px ;
+ }
+ .headermain_div{
+  box-shadow: 1px 1px 1px opx;
+  width: 1500px;
+  height: 108px;
+  border: 1px solid orange;
+
+ }
+.img {
+  margin: 30px 87px;
+}
+.rectangle-copy {
+  background-color: #ffffff;
+  box-shadow: 0 2px 6px 0 rgb(0 0 0 / 6%);
+  border: 1px solid #dae1e7;
+  border-radius: 3px;
+  width: 130px;
+  height: 50px;
+  padding: 0px 20px;
+  box-sizing: border-box;
+  margin: 30px 48px;
+  position: absolute;
+}
+.search_ {
+  width: 407px;
+  height: 56px;
+  padding: 0px 20px;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  box-shadow: 0 2px 6px 0 rgb(0 0 0 / 6%);
+  border: 1px solid #dae1e7;
+  border-radius: 3px;
+  margin: 32px 204px;
+  position: absolute;
+
+}
+.dropdown_icon {
+  position: absolute;
+  top: 2px;
+  height: 103px;
+  width: 26px;
+  left: 364px;
+}
+.search_icon {
+  position: absolute;
+  left: 755px;
+  height: 19px;
+  top: 46px;
+  width: 33px;
+}
+.switch_div {
+  position: absolute;
+  left: 851px;
+  top: 53px;
+}
+.auto {
+  position: absolute;
+  left: 888px;
+  top: 48px;
+  width: 200px;
+}
+.info_icon {
+  height: 18px;
+  width: 18px;
+  color: #9ba1a5;
+  font-family: "Material Design Icons";
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  left: 1022px;
+  top: 52px;
+}
+.trial {
+  height: 16px;
+  width: 73px;
+  color: #4d4d4d;
+  font-family: "Century Gothic";
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin: 0px -98px;
+  padding: 10px;
+  background-color: #f4ecec;
+  border-radius: 6px;
+  position: absolute;
+  left: 1160px;
+  top: 42px;
+}
+ .notofication{
+  position: absolute;
+  font-size: 20px;
+  left: 1218px;
+  top: 51px;
+ }
+ .notofication1{
+  position: absolute;
+  font-size: 20px;
+  left: 1283px;
+  top: 52px;
+
+ }
+ .notofication2{
+  position: absolute;
+  font-size: 20px;
+  left: 1348px;
+  top: 52px;
+ }
+ .dropdown{
+    position: absolute;
+   left: 300px; 
+   top: 32px;
+
+ }
+ 
+ /* ul{
+  list-style-type: none;
+  width: 500px;
+ }
+ ul li ul{
+  list-style-type: none;
+ }
+ ul li a{
+  text-decoration: none;
+  display: block;
+ }
+ ul li ul li {
+  display: none;
+ }
+ ul li:hover ul li{
+  display: block;
+ } */

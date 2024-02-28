@@ -1,0 +1,178 @@
+.schedulecomp_container {
+  position: relative;
+  /* left: 1200px; */
+  margin: 0px 1200px;
+}
+
+.name {
+  height: 38px;
+  width: 73.7px;
+  color: #454b51;
+  font-family: "Century Gothic";
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 0.2px;
+  line-height: 15px;
+  margin: 16px 22px;
+}
+
+.service_color {
+  height: 10px;
+  width: 9.96px;
+  border-radius: 100px;
+  background-color: #00d9b7;
+}
+.service {
+  height: 17px;
+  width: 49px;
+  color: #334048;
+  font-family: "Century Gothic";
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-top: -4px;
+}
+.service_boder {
+  border-right-color: 5px solid #00d9b7;
+}
+
+.wash_color {
+  height: 10px;
+  width: 9.96px;
+  border-radius: 100px;
+  background-color: #195e8d;
+}
+.wash {
+  height: 17px;
+  width: 49px;
+  color: #334048;
+  font-family: "Century Gothic";
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-top: -4px;
+}
+.repair_color {
+  height: 10px;
+  width: 9.96px;
+  border-radius: 100px;
+  background-color: #fab15d;
+}
+.repai {
+  height: 17px;
+  width: 43.82px;
+  color: #334048;
+  font-family: "Century Gothic";
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-top: -4px;
+}
+
+.details {
+  display: flex;
+  width: 252px;
+  justify-content: space-around;
+  margin: 10px 16px;
+}
+
+/* .mapContainer {
+  height: 420px;
+  overflow: scroll;
+  overflow-y: scroll;
+}
+.mapContainer::-webkit-scrollbar {
+  display: none;
+} */
+
+.today {
+  height: 14px;
+  width: 49.8px;
+  color: #454b51;
+  font-family: "Century Gothic";
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin: 23px 22px;
+}
+
+.card {
+  border: 1px Solid #e7e7e7;
+  border-radius: 3px;
+  width: 255px;
+  height: 60px;
+  margin: 10px 0px;
+  background-color: #ffff;
+  padding: 6px;
+}
+.time {
+  height: 14px;
+  width: 130px;
+  color: #334048;
+  font-family: "Century Gothic";
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin: 9px 15px;
+}
+
+.model {
+  height: 14px;
+  width: 195px;
+  color: #334048;
+  font-family: "Century Gothic";
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin: 0 16px;
+}
+
+.repair {
+  height: 14px;
+  width: 195px;
+  color: #334048;
+  font-family: "Century Gothic";
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin: 0 -12px;
+}
+.service_border {
+  border-left: 4px solid #00d9b7;
+  border-radius: 3px 0px 0px 3px;
+  margin: 18px;
+}
+.wash_border {
+  border-left: 4px solid #195e8d;
+  border-radius: 3px 0px 0px 3px;
+  margin: 18px;
+}
+.repair_border {
+  border-left: 4px solid #fab15d;
+  border-radius: 3px 0px 0px 3px;
+  margin: 18px;
+}
+.time_icon {
+  color: #006fb9;
+  margin: -36px 126px;
+  left: 35px;
+  font-family: "Material Design Icons";
+  font-size: 20px;
+}
+.more{
+  width: 90px;
+  background-color: #FFFF;
+  border:none;
+  color: blue;
+  font-size:larger;
+  margin-left: 212px;
+}
+.less{
+  width: 110px;
+  background-color: #FFFF;
+  border:none;
+  color: red;
+  font-size:larger;
+  margin-left: 180px;
+}

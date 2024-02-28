@@ -1,0 +1,65 @@
+.jobforsub_div{
+    display: flex;
+  
+}
+.mask1{
+    box-sizing: border-box;
+    height: 226px;
+    width: 230px;
+    border: 1px solid #E7E7E7;
+    border-radius: 3px;
+    background-color: #FFFFFF;
+    box-shadow: 0 0 6px 0 rgb(0 0 0 / 8%);
+    margin: 10px 3px;
+}
+.forday{
+    width: 227px;
+    height: 40px;
+    line-height: 38px;
+    border-bottom: 1px solid #e8c5c5;
+    text-align: center;
+ 
+}
+.number{
+    height: 98px;
+    width: 89px;
+    color: #454B51;
+    font-family: "Century Gothic";
+    font-size: 80px;
+    letter-spacing: 0;
+    line-height: 98px;
+    margin-left: 65px;
+}
+.mask2{
+    box-sizing: border-box;
+    height: 226px;
+    width: 230px;
+    border: 1px solid #E7E7E7;
+    border-radius: 3px;
+    background-color: #FFFFFF;
+    box-shadow: 0 0 6px 0 rgb(0 0 0 / 8%);
+    margin: 10px 13px;
+}
+.mask3{
+    box-sizing: border-box;
+    height: 226px;
+    width: 345px;
+    border: 1px solid #E7E7E7;
+    border-radius: 3px;
+    background-color: #FFFFFF;
+    box-shadow: 0 0 6px 0 rgb(0 0 0 / 8%);
+    margin: 10px 10px;
+
+  
+}
+.top5{
+    width: 342px;
+    height: 40px;
+    line-height: 38px;
+    border-bottom: 1px solid #e8c5c5;
+    text-align: center; 
+}
+.requested_services{
+    color: #717982;
+    text-align: center;
+}

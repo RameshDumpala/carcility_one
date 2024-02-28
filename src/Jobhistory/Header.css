@@ -1,0 +1,58 @@
+.mainheader_div {
+  margin: 0px 300px;
+}
+
+.grop {
+  height: 40px;
+  width: 1124px;
+  display: flex;
+  margin: 0px 0px;
+}
+
+.job {
+  margin: -10px 18px;
+  height: 32px;
+  width: 137px;
+  color: #334048;
+  font-family: "Century Gothic";
+  font-size: 26px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.main_groups {
+  display: flex;
+  position: absolute;
+  left: 748px;
+  top: -16px;
+}
+
+.grop_1 {
+  display: flex;
+  justify-content: space-around;
+
+  height: 40px;
+  width: 113px;
+
+  border: 1px solid;
+  line-height: 38px;
+  margin: 0px 10px;
+
+  border: 1px solid #dae1e7;
+  border-radius: 3px;
+  background-color: #ffffff;
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.08);
+}
+ 
+.icon{
+  height: 17px;
+  width: 16px;
+  color: #ED3124;
+}
+.drop_icon{
+  width: 28px;
+  height: 24px;
+  margin: 8px -4px;
+}
+ 

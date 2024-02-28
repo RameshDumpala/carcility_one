@@ -1,0 +1,68 @@
+.rectangle-2 {
+    box-sizing: border-box;
+    border: 1px solid #E7E7E7;
+    height: 731px;
+    width: 825px;
+    box-shadow: 0 0 6px 0 rgba(18, 217, 32, 0.08);
+    position: relative;
+    top: -700px;
+    left: 280px;
+  }
+
+
+.inboxmain_div{
+margin: 0px 20px;
+}
+
+
+.inbox_map{
+    box-sizing: border-box;
+    height: 70px;
+    width: 784px;
+    border: 1px solid #E7E7E7;
+    border-radius: 3px;
+    background-color: #FFFFFF;
+    box-shadow: 0 0 1px 0 rgba(0,0,0,0.11);
+   margin: 10px 0px;
+  }
+  .name_inbox{
+    height: 14px;
+    width: 65px;
+    color: #334048;
+    font-family: "Century Gothic";
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin: 15px 30px;
+  }
+  .nimber_inbox{
+    height: 14px;
+    width: 55px;
+    color: #717982;
+    font-family: "Century Gothic";
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin: 0px 34px;
+  }
+  .establis{
+    position: absolute;
+    height: 40px;
+    width: 445px;
+    color: #717982;
+    font-family: "Century Gothic";
+    font-size: 15px;
+    margin: -41px 156px;
+
+  }
+  .month{
+    height: 14px;
+    width: 84px;
+    color: #334048;
+    font-family: "Century Gothic";
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin: -43px 650px;
+  }

@@ -1,0 +1,599 @@
+{
+    "today": [
+      {
+        "id": "N12557",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "wash",
+        "model": "Alto",
+        "repair": "Gear Box"
+      },
+      {
+        "id": "N12557",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "wash",
+        "model": "Alto",
+        "repair": "Gear Box"
+      },
+      {
+        "id": "N12557",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "wash",
+        "model": "Alto",
+        "repair": "Gear Box"
+      },
+      {
+        "id": "N12557",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "wash",
+        "model": "Alto",
+        "repair": "Gear Box"
+      },
+      {
+        "id": "N36375",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "repair",
+        "model": "Alto",
+        "repair": "A/C Heating and Cooling"
+      },
+      {
+        "id": "N31039",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "wash",
+        "model": "Etios",
+        "repair": "A/C Heating and Cooling"
+      },
+      {
+        "id": "N47586",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "service",
+        "model": "Hexa",
+        "repair": "Brakes"
+      },
+      {
+        "id": "N37419",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "service",
+        "model": "Hexa",
+        "repair": "Coolant"
+      },
+      {
+        "id": "N95863",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "service",
+        "model": "Hexa",
+        "repair": "Gear Box"
+      },
+      {
+        "id": "N31977",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "wash",
+        "model": "Audi",
+        "repair": "A/C Heating and Cooling"
+      }
+    ],
+    "tomorrow": [
+      {
+        "id": "N57980",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "wash",
+        "model": "Hexa",
+        "repair": "Oil Change"
+      },
+      {
+        "id": "N20945",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "service",
+        "model": "Alto",
+        "repair": "A/C Heating and Cooling"
+      },
+      {
+        "id": "N18093",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "wash",
+        "model": "Etios",
+        "repair": "Gear Box"
+      },
+      {
+        "id": "N78295",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "repair",
+        "model": "Etios",
+        "repair": "Brakes"
+      },
+      {
+        "id": "N49455",
+        "time": "Tue Feb 21 2023 12:07:34 GMT+0530 (India Standard Time)",
+        "status": "service",
+        "model": "Alto",
+        "repair": "Brakes"
+      }
+    ],
+    "jobhistory":[
+      {
+          "id":1,
+          "requestdate":"Jan 7 2017",
+          "status":"Expired",
+          "quote":"120 AED",
+          "model":"Toyato Etios",
+          "details":"Ac heating & Cooling",
+          "area":"West Brody",
+          "type":"Service",
+          "name":"John Doe",
+          "number":"4783920",
+          "established":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+          "month":"Jan 30, 2017",
+          "time" :"11:30 PM"
+       
+      },
+      {
+          "id":2,
+          "requestdate":"Otc 17 2017",
+          "status":"Declined",
+          "quote":"120 AED",
+          "model":"Toyato Etios",
+          "details":"Regular Service",
+          "area":"Tracy Fort",
+          "type":"Service",
+          "name":"John Doe",
+          "number":"4783920",
+          "established":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+          "month":"Jan 30, 2017",
+          "time" :"11:30 PM"
+      },
+      {
+          "id":3,
+          "requestdate":"May 2 2017",
+          "status":"Completed",
+          "quote":"120 AED",
+          "model":"Ford Endeavour",
+          "details":"Ac heating & Cooling",
+          "area":"south Blairmouth",
+          "type":"Wash",
+          "name":"John Doe",
+          "number":"4783920",
+          "established":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+          "month":"Jan 30, 2017",
+          "time" :"11:30 PM"
+      },
+      {
+          "id":4,
+          "requestdate":"Aug 10 2017",
+          "status":"Declined",
+          "quote":"120 AED",
+          "model":"Toyato Etios",
+          "details":"Body Work",
+          "area":"Harberton",
+          "type":"Repair",
+          "name":"John Doe",
+          "number":"4783920",
+          "established":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+          "month":"Jan 30, 2017",
+          "time" :"11:30 PM"
+
+      },
+      {
+          "id":5,
+          "requestdate":"Aug 8 2017",
+          "status":"Declined",
+          "quote":"120 AED",
+          "model":"Toyato Etios",
+          "details":"Regular Service",
+          "area":"Armstrongland",
+           "type":"Wash",
+           "name":"John Doe",
+          "number":"4783920",
+          "established":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+          "month":"Jan 30, 2017",
+          "time" :"11:30 PM"
+      },
+      {
+          "id":6,
+          "requestdate":"Jul 1 2017",
+          "status":"Completed",
+          "quote":"120 AED",
+          "model":"Honda Civic",
+          "details":"Awesome Car wash",
+          "area":"Fayhaven",
+          "type":"Service",
+          "name":"John Doe",
+          "number":"4783920",
+          "established":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+          "month":"Jan 30, 2017",
+          "time" :"11:30 PM"
+        
+      },
+      {
+          "id":7,
+          "requestdate":"May 28 2017",
+          "status":"Declined",
+          "quote":"120 AED",
+          "model":"Ford Endeavour",
+          "details":"Regular Service",
+          "area":"Port Alena",
+          "type":"Repair",
+          "name":"John Doe",
+          "number":"4783920",
+          "established":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+          "month":"Jan 30, 2017",
+          "time" :"11:30 PM"
+      },
+      {
+        "id":8,
+        "requestdate":"may 7 2017",
+        "status":"Expired",
+        "quote":"120 AED",
+        "model":"Toyato Etios",
+        "details":"Ac heating & Cooling",
+        "area":"West Brody",
+        "type":"Service",
+        "name":"John Doe",
+          "number":"4783920",
+          "established":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+          "month":"Jan 30, 2017",
+          "time" :"11:30 PM"
+    }, 
+     {
+      "id":9,
+      "requestdate":"Aug 8 2017",
+      "status":"Declined",
+      "quote":"120 AED",
+      "model":"Toyato Etios",
+      "details":"Regular Service",
+      "area":"Armstrongland",
+       "type":"Wash"
+  },
+  {
+      "id":10,
+      "requestdate":"Jul 1 2017",
+      "status":"Completed",
+      "quote":"120 AED",
+      "model":"Honda Civic",
+      "details":"Awesome Car wash",
+      "area":"Fayhaven",
+      "type":"Service"
+    
+  }, 
+
+      {
+    "id":11,
+    "requestdate":"Jan 7 2017",
+    "status":"Expired",
+    "quote":"120 AED",
+    "model":"Toyato Etios",
+    "details":"Ac heating & Cooling",
+    "area":"West Brody",
+    "type":"Service"
+},
+{
+    "id":12,
+    "requestdate":"Otc 17 2017",
+    "status":"Declined",
+    "quote":"120 AED",
+    "model":"Toyato Etios",
+    "details":"Regular Service",
+    "area":"Tracy Fort",
+    "type":"Service"
+},
+{
+  "id": 13,
+  "requestdate": "May 29 2017",
+  "status":"Expired",
+  "type":"Service",
+  "quote": "220 AED",
+  "model": "Kia Seltos",
+  "details": "Regular Service",
+  "area": "Nagasaki"
+},
+{
+  "id": 14,
+  "requestdate": "Jul 20 2017",
+  "status": "Declined",
+  "type":"Wash",
+  "quote": "170 AED",
+  "model": "Toyata Fortuner",
+  "details": "Ac heating & Cooling",
+  "area": "Korea"
+},
+{
+  "id": 15,
+  "requestdate": "April 20 2017",
+  "status": "Completed",
+  "type":"Wash",
+  "quote": "190 AED",
+  "model": "MG Zs Ev",
+  "details": "Awesome Car wash",
+  "area": "Germany"
+},
+{
+  "id": 16,
+  "requestdate": "Aug 10 2017",
+  "status": "Expired",
+  "type":"Wash",
+  "quote": "180 AED",
+  "model": "Skoda Rapid",
+  "details": "Regular Service",
+  "area": "Belzium"
+},
+{
+  "id": 17,
+  "requestdate": "Sep 12 2017",
+  "status": "Declined",
+  "type":"Wash",
+  "quote": "199 AED",
+  "model": "Ford Aspire",
+  "details": "Awesome Car wash",
+  "area": "Benzooc"
+},
+{
+  "id": 18,
+  "requestdate": "Sep 2 2017",
+  "status": "Expired",
+  "type":"Wash",
+  "quote": "144 AED",
+  "model": "Nissan GT-R",
+  "details": "Ac heating & Cooling",
+  "area": "Monnacoo"
+},
+{
+  "id": 19,
+  "requestdate": "Nov 12 2017",
+  "status": "Completed",
+  "type": "Wash",
+  "quote": "140 AED",
+  "model": "BMD 3-Series",
+  "details": "Regular Service",
+  "area": "Carpong"
+},
+{
+  "id": 20,
+  "requestdate": "Dec 31 2017",
+  "status": "Expired",
+  "type":"Repair",
+  "quote": "188 AED",
+  "model": "Jaguar XF",
+  "details": "Awesome Car wash",
+  "area": "Hyderbad"
+},
+{
+  "id": 21,
+  "requestdate": "May 21 2017",
+  "status": "Completed",
+  "type":"Repair",
+  "quote": "196 AED",
+  "model": "Volvo XC40",
+  "details": "Regular Service",
+  "area": "Chicago"
+},
+{
+  "id": 22,
+  "requestdate": "May 14 2017",
+  "status": "Completed",
+  "type":"Repair",
+  "quote": "180 AED",
+  "model": "Lenux LX",
+  "details": "Ac heating & Cooling",
+  "area": "Zummanoo"
+},
+{
+  "id": 41,
+  "requestdate": "Feb 28 2017",
+  "status": "Declined",
+  "type": "Repair",
+  "quote": "170 AED",
+  "model": "ISUZU MUX",
+  "details": "Awesome Car wash",
+  "area": "Zunnaach"
+},
+{
+  "id": 42,
+  "requestdate": "Aug 22 2017",
+  "status": "Completed",
+  "type": "Wash",
+  "quote": "200 AED",
+  "model": "Buggati Chiron",
+  "details": "Regular Service",
+  "area": "Melbourne"
+},
+{
+  "id": 43,
+  "requestdate": "May 22 2017",
+  "status": "Declined",
+  "type": "Repair",
+  "quote": "166 AED",
+  "model": "Audi Q8",
+  "details": "Awesome Car wash",
+  "area": "Cheeili"
+},
+{
+  "id": 44,
+  "requestdate": "Jul 3 2017",
+  "status": "Declined",
+  "type": "Wash",
+  "quote": "170 AED",
+  "model": "Porche 911",
+  "details": "Regular Service",
+  "area": "London"
+},
+{
+  "id": 45,
+  "requestdate": "Jul 22 2017",
+  "status": "Expired",
+  "type": "Repair",
+  "quote": "194 AED",
+  "model": "Jaguar XE",
+  "details": "Ac heating & Cooling",
+  "area": "Tokyo"
+},
+{
+  "id": 46,
+  "requestdate": "May 28 2017",
+  "status": "Completed",
+  "type": "Service",
+  "quote": "120 AED",
+  "model": "Ford Endeavour",
+  "details": "Regular Service",
+  "area": "Port Alena"
+},
+{
+  "id": 47,
+  "requestdate": "May 28 2017",
+  "status": "Expired",
+  "type": "Service",
+  "quote": "120 AED",
+  "model": "Ford Endeavour",
+  "details": "Regular Service",
+  "area": "Port Alena"
+},
+{
+  "id": 48,
+  "requestdate": "May 28 2017",
+  "status": "Completed",
+  "type": "Wash",
+  "quote": "120 AED",
+  "model": "Ford Endeavour",
+  "details": "Regular Service",
+  "area": "Port Alena"
+},
+{
+  "id": 49,
+  "requestdate": "May 28 2017",
+  "status": "Declined",
+  "type": "Repair",
+  "quote": "120 AED",
+  "model": "Ford Endeavour",
+  "details": "Regular Service",
+  "area": "Port Alena"
+},
+{
+  "id": 50,
+  "requestdate": "May 28 2017",
+  "status": "Completed",
+  "type": "Repair",
+  "quote": "120 AED",
+  "model": "Ford Endeavour",
+  "details": "Regular Service",
+  "area": "Port Alena"
+},
+{
+  "id": 51,
+  "requestdate": "May 28 2017",
+  "status": "Expired",
+  "type": "Wash",
+  "quote": "120 AED",
+  "model": "Ford Endeavour",
+  "details": "Regular Service",
+  "area": "Port Alena"
+},
+{
+  "id": 52,
+  "requestdate": "May 28 2017",
+  "status": "Declined",
+  "type": "Service",
+  "quote": "120 AED",
+  "model": "Ford Endeavour",
+  "details": "Regular Service",
+  "area": "Port Alena"
+},
+{
+  "id": 53,
+  "requestdate": "May 28 2017",
+  "status": "Declined",
+  "type": "Wash",
+  "quote": "120 AED",
+  "model": "Ford Endeavour",
+  "details": "Regular Service",
+  "area": "Port Alena"
+},
+{
+  "id": 54,
+  "requestdate": "May 28 2017",
+  "status": "Completed",
+  "type": "Repair",
+  "quote": "120 AED",
+  "model": "Ford Endeavour",
+  "details": "Regular Service",
+  "area": "Port Alena"
+},
+{
+  "id": 55,
+  "requestdate": "May 28 2017",
+  "status": "Declined",
+  "type": "Wash",
+  "quote": "120 AED",
+  "model": "Ford Endeavour",
+  "details": "Regular Service",
+  "area": "Port Alena"
+},
+{
+  "id": 56,
+  "requestdate": "May 28 2017",
+  "status": "Expired",
+  "type":"Wash",
+  "quote": "120 AED",
+  "model": "Ford Endeavour",
+  "details": "Regular Service",
+  "area": "Port Alena"
+},
+{
+  "id": 57,
+  "requestdate": "May 28 2017",
+  "status": "Declined",
+  "type":"Wash",
+  "quote": "120 AED",
+  "model": "Ford Endeavour",
+  "details": "Regular Service",
+  "area": "Port Alena"
+},
+{
+  "id": 58,
+  "requestdate": "May 28 2017",
+  "status": "Expired",
+  "type":"Wash",
+  "quote": "120 AED",
+  "model": "Ford Endeavour",
+  "details": "Regular Service",
+  "area": "Port Alena"
+},
+{
+  "id": 59,
+  "requestdate": "May 28 2017",
+  "status": "Completed",
+  "type":"Wash",
+  "quote": "120 AED",
+  "model": "Ford Endeavour",
+  "details": "Regular Service",
+  "area": "Port Alena"
+},
+{
+  "id": 60,
+  "requestdate": "May 28 2017",
+  "status": "Declined",
+  "type":"Service",
+  "quote": "120 AED",
+  "model": "Ford Endeavour",
+  "details": "Regular Service",
+  "area": "Port Alena"
+},
+{
+  "id": 61,
+  "requestdate": "May 28 2017",
+  "status": "Declined",
+  "type":"Service",
+  "quote": "120 AED",
+  "model": "Ford Endeavour",
+  "details": "Regular Service",
+  "area": "Port Alena"
+},
+{
+  "id": 62,
+  "requestdate": "May 28 2017",
+  "status": "Expired",
+  "type":"Service",
+  "quote": "120 AED",
+  "model": "Ford Endeavour",
+  "details": "Regular Service",
+  "area": "Port Alena"
+  
+}
+  ]
+  }

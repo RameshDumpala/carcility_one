@@ -1,0 +1,47 @@
+ 
+
+.mask_activity{
+ 
+height: 226px;
+width: 470px;
+border-radius: 3px;
+background-color: #FFFFFF;
+box-shadow: 0 0 6px 0 rgba(0,0,0,0.08);
+}
+.forday_activity{
+    width: 470px;
+    height: 40px;
+    line-height: 38px;
+    border-bottom: 1px solid #e8c5c5;
+    text-align: center;
+    color: #454B51;
+    font-family: "Century Gothic";
+    font-size: 15px;
+    font-weight: bold;
+ 
+}
+.number_activity{
+    display: flex;
+    justify-content: space-around;
+    line-height: 35px;
+    font-size: 38px;
+    color: #006FBA;
+}
+.newmessage{
+    display: flex;
+    justify-content: space-around;
+    font-family: "Century Gothic";
+    font-size: large;
+    color: #006FBA;
+}
+.mask4{
+    box-sizing: border-box;
+    height: 226px;
+    width: 345px;
+    border: 1px solid #E7E7E7;
+    border-radius: 3px;
+    background-color: #FFFFFF;
+    box-shadow: 0 0 6px 0 rgb(0 0 0 / 8%);
+    margin: -186px 500px;
+  
+}

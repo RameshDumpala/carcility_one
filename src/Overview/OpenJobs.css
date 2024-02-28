@@ -1,0 +1,159 @@
+/* .openjobs_container {
+  bottom: 1270px;
+  left: 43px;
+  position: relative;
+} */
+.openjob_border {
+  position: absolute;
+  top: 152px;
+  left: 10px;
+  width: 200px;
+  height: 916px;
+  border: 1px solid burlywood;
+}
+
+.over_speed {
+  display: flex;
+}
+.speed_icon {
+  height: 24px;
+  width: 24px;
+  margin: 7px 12px;
+}
+.sub_openjob {
+  height: 1200px;
+}
+.over {
+  margin: 8px 7px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background-color: #FFFF;
+}
+.over:focus{
+ color:red;  
+}
+.overColor {     
+  color:red;  
+  margin: 8px 7px;
+  cursor: pointer;  
+}
+
+
+.bag_open {
+  display: flex;
+}
+.bag_icon {
+  height: 26px;
+  width: 26px;
+  color: #454b51;
+  font-family: "Material Design Icons";
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: 28px;
+  text-align: center;
+  margin: 15px 10px;
+}
+.open {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background-color: #FFFF;
+  margin: 19px 7px;
+}
+.open:focus{
+  color: red;
+}
+.waiting-applied-conf {
+  display: grid;
+  height: 210px;
+  margin: 29px 56px;
+}
+.all_icons {
+  display: grid;
+  height: 340px;
+  margin: 26px 20px;
+}
+.restore {
+  height: 24px;
+  width: 24px;
+ 
+  margin: 0px -10px;
+}
+.message_icon {
+  height: 24px;
+  width: 24px;
+  margin: 0px -10px;
+  color: #334048;
+}
+
+.history_div {
+  height: 20px;
+  width: 91px;
+  font-family: "Century Gothic";
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 16px;
+  background-color: #FFFF;
+  border: 1px solid #FFFF;
+  position: absolute;
+  left: 60px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background-color: #FFFF;
+
+}
+.history_div:focus{
+  color: red;
+}
+.inbox {
+  height: 16px;
+  width: 120px;
+  color: #334048;
+  font-family: "Century Gothic";
+  font-size: 13px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  left: 33px;
+  top: 434px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background-color: #FFFF;
+
+}
+.inbox:focus{
+  color: red;
+}
+.vehicles{
+  position: absolute;
+  left: 72px;
+  top: 502px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background-color: #FFFF;
+}
+.vehicles:focus{
+  color: red;
+}
+.manage_user{
+  position: absolute;
+  left: 72px;
+  top: 573px;
+}
+.companyprofile{
+  position: absolute;
+  left: 45px;
+  top: 620px;
+  border-bottom: none;
+  color: red;
+  width: 150px;
+}
+.muiBox{
+border-bottom: none;
+}
+ 

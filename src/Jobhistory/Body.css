@@ -1,0 +1,139 @@
+.body_maindiv{
+  position: absolute;
+  left: 300px;
+}
+
+
+.bodre {
+  height: 782px;
+  width: 825px;
+  border: 1px solid rebeccapurple;
+  margin: 0px 16px;
+}
+
+.header_names {
+  display: flex;
+  width: 400px;
+  justify-content: space-around;
+  border-radius: 3px;
+  height: 60px;
+  line-height: 57px;
+}
+
+.bottomborder {
+  border-bottom: 1px solid #e7e7e7;
+}
+.body {
+  display: flex;
+  justify-content: space-around;
+  width: 615px;
+  line-height: 54px;
+}
+
+.map_div {
+  box-sizing: border-box;
+  height: 70px;
+  width: 784px;
+  border: 1px solid #e7e7e7;
+  border-radius: 3px;
+  background-color: #ffffff;
+ 
+}
+.request {
+  color: #334048;
+  font-family: "Century Gothic";
+  font-size: 14px;
+  line-height: 72px;
+  width: 500px;
+  margin: 0px 20px;
+}
+.status {
+  height: 20px;
+  width: 51px;
+  color: #a5a5a5;
+  font-family: "Century Gothic";
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+  display: flex;
+  margin: -50px 163px;
+}
+.quote {
+  height: 20px;
+  width: 56px;
+  color: #717982;
+  font-family: "Century Gothic";
+  font-size: 14px;
+  line-height: 20px;
+  display: flex;
+  margin: -47px 278px;
+}
+.model_div{
+  height: 14px;
+  width: 121px;
+  color: #334048;
+  font-family: "Century Gothic";
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 14px;
+  display: flex;
+  margin: 14px 409px;
+}
+.details_div{
+  height: 14px;
+  width: 150px;
+  color: #717982;
+  font-family: "Century Gothic";
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 14px;
+  display: flex;
+  margin: 13px 408px;
+}
+.area_div {
+  height: 15px;
+  width: 106px;
+  color: #334048;
+  font-family: "Century Gothic";
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 15px;
+  display: flex;
+  margin: -40px 624px;
+}
+.type_service {
+  border-left: 4px solid #00d9b7;
+  border-radius: 3px 0px 0px 3px;
+  margin: 10px 20px;
+}
+.type_wash {
+  border-left: 4px solid #195e8d;
+  border-radius: 3px 0px 0px 3px;
+  margin: 10px 20px;
+}
+.type_Repair {
+  border-left: 4px solid #fab15d;
+   border-radius: 3px 0px 0px 3px;
+  margin: 10px 20px;
+}
+.status_declined {
+  color: red;
+  margin: 10px 25px;
+}
+.status_expired {
+  color: #0b78bb;
+  margin: 10px 36px;
+}
+.status_completed {
+  color: green;
+  margin: 10px 25px;
+}
+.completed{
+  border: none;
+  outline: none;
+  background-color: white;
+}
+.completed:focus{
+  border-bottom: 1px solid red;
+}
